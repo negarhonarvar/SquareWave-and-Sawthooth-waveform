@@ -3,7 +3,7 @@ In this Repository we aim to approximate sawtooth and squarewave signals using F
 
 ## Calculation of Fourier coefficients for SquareWave Signal:
 
-<img srs = "![image](https://github.com/user-attachments/assets/62974ced-41a1-4df1-b0e1-21c0d7a26599)" width = "200">
+<img alt = "Max Depth" src = "![image](https://github.com/user-attachments/assets/62974ced-41a1-4df1-b0e1-21c0d7a26599)" width = "200">
 
 ### Squarewave signal for M = 80
 
